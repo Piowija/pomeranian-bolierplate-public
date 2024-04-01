@@ -11,7 +11,7 @@ export function AppHeader() {
         <Link to="/">
           <Logo />
         </Link>
-        <div className="header-title">Tytuł nagłówka</div>
+        {/* <div className="header-title">Tytuł nagłówka</div> */}
       </div>
     </header>
   );
