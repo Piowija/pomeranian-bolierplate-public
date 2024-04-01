@@ -1,4 +1,3 @@
-import { StandardTags } from '../StandardTags/StandardTags';
 import './styles.css';
 
 export const TextFundaments = () => {
@@ -48,7 +47,7 @@ export const TextFundaments = () => {
         </ol>
       </div>
 
-      <StandardTags title={TITLE} />
+      <TextFundaments title={TITLE} />
     </>
   );
 };

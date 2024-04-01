@@ -2,10 +2,10 @@ import React from 'react';
 
 import { HTMLTables } from './HTMLTables';
 
-export const HTMLTablesRouterMetaData = {
-  path: 'css-animations',
+export const htmlTablesRouterMetaData = {
+  path: 'html-tables',
   date: '30-08-2023',
-  linkLabel: 'Animacje',
+  linkLabel: 'Pierwsze tabelki',
   element: <HTMLTables />,
-  tags: ['attribute', 'text', 'css', 'animations'],
+  tags: ['tables', 'html', 'css'],
 };
