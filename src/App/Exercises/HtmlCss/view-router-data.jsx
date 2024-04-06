@@ -11,6 +11,7 @@ import { backgroundsRouterMetaData } from './Backgrounds/router-data';
 import { mediaFilesRouterMetaData } from './MediaFiles/router-data';
 import { boxModelRouterMetaData } from './BoxModel/router-data';
 import { htmlTablesRouterMetaData } from './HTMLTables/router-data';
+import { tablesTennisRouterMetaData } from './TablesTennis/router-data';
 
 export const blockRouterMetaData = [
   blockRouterMetaData121220231,
@@ -24,5 +25,6 @@ export const blockRouterMetaData = [
   mediaFilesRouterMetaData,
   boxModelRouterMetaData,
   htmlTablesRouterMetaData,
+  tablesTennisRouterMetaData,
 ];
 export const blockRouterData = getParsedRouterDataList(blockRouterMetaData);

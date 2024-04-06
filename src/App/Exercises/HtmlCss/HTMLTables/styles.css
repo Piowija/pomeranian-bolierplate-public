@@ -15,7 +15,7 @@ tr:nth-child(even) {
   background-color: #dddddd;
 } */
 
-table {
+/* table {
   table-layout: fixed;
   width: 100%;
   text-align: left;
@@ -31,4 +31,4 @@ th {
 
 tr:nth-child(2n) {
   background-color: #dddddd;
-}
+} */
