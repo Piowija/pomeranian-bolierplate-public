@@ -20,9 +20,9 @@ export const StandardTags = ({ title }) => {
         <p>
           Make the next birthday you celebrate a special one with a hand-picked
           happy birthday <q>quote</q> or wish that will surely make that special
-          someone’s day a great day. Whether you’re celebrating your birthday or
-          someone else’s, you can rely on our list of <i>happy birthday</i>{' '}
-          <q>quotes</q> to help put a smile on someone’s face. From
+          someone's day a great day. Whether you're celebrating your birthday or
+          someone else's, you can rely on our list of <i>happy birthday</i>{' '}
+          <q>quotes</q> to help put a smile on someone's face. From
           inspirational to funny to cute sayings, browse our list of
           <q>quotes</q> to find one that resonates with you. <del>Nothing</del>{' '}
           can stop you!
@@ -58,10 +58,10 @@ export const StandardTags = ({ title }) => {
         <div>
           Make the next birthday you celebrate a special one with a hand-picked
           happy birthday <span>quote</span> or wish that will surely make that
-          special someone’s day a great day. Whether you’re celebrating your
-          birthday or someone else’s, you can rely on our list of{' '}
+          special someone's day a great day. Whether you're celebrating your
+          birthday or someone else's, you can rely on our list of{' '}
           <span>happy birthday</span> <span>quotes</span> to help put a smile on
-          someone’s face. From inspirational to funny to cute sayings, browse
+          someone's face. From inspirational to funny to cute sayings, browse
           our list of
           <span>quotes</span> to find one that resonates with you.{' '}
           <span>Nothing</span> can stop you!

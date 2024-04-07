@@ -1,8 +1,6 @@
 import './styles.css';
 
 export const TextFundaments = () => {
-  const TITLE = 'Hello title';
-
   return (
     <>
       <div>
@@ -46,8 +44,6 @@ export const TextFundaments = () => {
           <li>Trzeci</li>
         </ol>
       </div>
-
-      <TextFundaments title={TITLE} />
     </>
   );
 };
