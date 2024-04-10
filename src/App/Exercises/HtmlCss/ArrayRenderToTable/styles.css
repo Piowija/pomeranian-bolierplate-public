@@ -5,22 +5,26 @@
     <DZIECKO3>
 </RODZIC>
 
-Wynik ROW:
+Oś "X" - Wynik ROW:
 
 <DZIECKO1> <DZIECKO2> <DZIECKO3> 
 
-Wynik ROW-REVERSE:
+Oś "X" - Wynik ROW-REVERSE:
 
 <DZIECKO3> <DZIECKO2> <DZIECKO1> 
 
-Wynik COLUMN:
+Oś "Y" - Wynik COLUMN:
 
 <DZIECKO1>
 <DZIECKO2>
 <DZIECKO3>
 
-Wynik COLUMN-REVERSE:
+Oś "Y" - Wynik COLUMN-REVERSE:
 
 <DZIECKO3>
 <DZIECKO2>
 <DZIECKO1> */
+
+/* .container {
+    flex-direction: row | row-reverse | column | column-reverse;
+  } */
