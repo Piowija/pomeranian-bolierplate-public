@@ -51,7 +51,7 @@ export const HTMLTables = () => {
         Which plastic would be unsafe to use to store products that contain
         acetone?
       </p>
-      <ol>
+      <ol type="a">
         <li>1</li>
         <li>2</li>
         <li>3</li>

@@ -5,36 +5,36 @@ export const TablesTennis = () => {
   return (
     <div>
       <h5>Ćwiczenie z tworzenia tabel</h5>
-      <table>
+      <table className="table-2">
         <tr>
-          <th>Location</th>
-          <th>PLAYER_ID</th>
-          <th>Rating</th>
+          <th className="table-header-2">Location</th>
+          <th className="table-header-2">PLAYER_ID</th>
+          <th className="table-header-2">Rating</th>
         </tr>
         <tr>
-          <td>Cape Verde Islands</td>
-          <td>#100120</td>
-          <td> icon</td>
+          <td className="lacation">Cape Verde Islands</td>
+          <td className="player_id">#100120</td>
+          <td className="rating">icon</td>
         </tr>
         <tr>
-          <td>Cape Verde Islands</td>
-          <td>#100122</td>
-          <td>icon</td>
+          <td className="lacation">Cape Verde Islands</td>
+          <td className="player_id">#100122</td>
+          <td className="rating">icon</td>
         </tr>
         <tr>
-          <td>Cape Verde Islands</td>
-          <td>#100124</td>
-          <td>icon</td>
+          <td className="lacation">Cape Verde Islands</td>
+          <td className="player_id">#100124</td>
+          <td className="rating">icon</td>
         </tr>
         <tr>
-          <td>United States of America</td>
-          <td>#100126</td>
-          <td> icon</td>
+          <td className="lacation">United States of America</td>
+          <td className="player_id">#100126</td>
+          <td className="rating">icon</td>
         </tr>
         <tr>
-          <td>United States of America</td>
-          <td>#100128</td>
-          <td>icon</td>
+          <td className="lacation">United States of America</td>
+          <td className="player_id">#100128</td>
+          <td className="rating">icon</td>
         </tr>
       </table>
     </div>
