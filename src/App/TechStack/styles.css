@@ -1,0 +1,22 @@
+.text {
+  font-family: Poppins;
+  color: rgba(35, 33, 61, 1);
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 34px;
+  padding-bottom: 35px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(6, 50px);
+  grid-template-rows: repeat(3, 100px);
+  gap: 55px 100px;
+}
+
+.grid-cell {
+  text-align: center;
+  padding: 5px;
+}
