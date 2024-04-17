@@ -1,0 +1,30 @@
+.container {
+  font-family: Poppins;
+  font-style: normal;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 73.66px;
+  text-align: left;
+}
+
+.photo {
+  width: 450px;
+  height: 300px;
+  border-radius: 8px;
+}
+
+.pink {
+  background-color: rgba(255, 213, 219, 1);
+  border-radius: 20px;
+  align-content: center;
+}
+
+.gray {
+  background-color: rgba(75, 85, 99, 1);
+  color: rgba(255, 255, 255, 1);
+  gap: 10px;
+}
+
+.lightgray {
+  background-color: rgba(235, 235, 235, 1);
+}
