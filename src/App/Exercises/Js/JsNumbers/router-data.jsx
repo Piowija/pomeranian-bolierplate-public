@@ -1,12 +1,9 @@
-import React from 'react';
-
-import { Exercise } from './JsNumbers';
+import { JsNumbers } from './JsNumbers';
 
 export const jsNumbersRouterMeteData = {
-  path: 'Js-Numbers',
-  date: '07-09-2023',
-  linkLabel: 'Js numery',
+  path: 'Js-numbers',
+  date: '08-09-2023',
+  linkLabel: 'Js numbers',
   blockNo: 18,
-  element: <Exercise />,
-  tags: ['boolean', 'const', 'true', 'false'],
+  element: <JsNumbers />,
 };
