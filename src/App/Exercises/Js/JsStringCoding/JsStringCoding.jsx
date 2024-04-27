@@ -31,5 +31,7 @@ export const JsStringCoding = () => {
 
   const indexOfString = string2.indexOf('hel'); // 0
 
+  // ASCII TABLE - Przeczytać
+
   return <div>Hello</div>;
 };
